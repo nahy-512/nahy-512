@@ -1,4 +1,4 @@
-# Nahyeon Kim
+# Nahyun Kim
 <div align = "center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Nahyun%20Kim&fontSize=90)
