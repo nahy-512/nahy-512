@@ -1,16 +1,18 @@
-### Hi there 👋
+# Nahyeon Kim
+<div align = "center">
 
-<!--
-**nahy-512/nahy-512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Nahyun%20Kim&fontSize=90)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahy-512&layout=compact)](https://github.com/nahy-512/Kim-Na-Hyun)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahy-512&show_icons=true&theme=radical&count_private=true&include_all_commits=ture&show_icons)
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahy-512%2Fhit-counter&count_bg=%239200FF&title_bg=%2300E7FF&icon=&icon_color=%23F30000&title=Hits&edge_flat=false)](https://github.com/nahy-512/Kim-Na-Hyun/blob/main/README.md)
+
+</div>
