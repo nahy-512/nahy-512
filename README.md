@@ -1,5 +1,5 @@
 # Nahyun Kim
-## Hi, I’m Nahyun.I'm a android developer 👋🏻 
+## Hi, I’m Nahyun. I'm a android developer 👋🏻 
 <div align = "center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Nahyun%20Kim&fontSize=90)
