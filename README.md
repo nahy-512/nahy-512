@@ -1,8 +1,8 @@
 # Nahyun Kim
+## Hi, I’m Nahyun.I'm a android developer 👋🏻 
 <div align = "center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Nahyun%20Kim&fontSize=90)
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahy-512&layout=compact)](https://github.com/nahy-512/Kim-Na-Hyun)
