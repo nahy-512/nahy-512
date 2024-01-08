@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nahyun%20Kim&fontSize=90)
 
 ### 🌈 Introduction
-[<img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>]([https://humdrum-scourge-892.notion.site/38ec6006bcad4c1185cb328e4fbb655f?pvs=4](https://chill-waste-c34.notion.site/Android-Developer-f1b425fac02c4b6f901dbfa637033a04?pvs=4))
+<a href="https://chill-waste-c34.notion.site/Android-Developer-f1b425fac02c4b6f901dbfa637033a04?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 
 ### 🏫 Education
