@@ -21,9 +21,10 @@
 </br>
 
 
-### 📊 Github Stats
+### 📊 Stats
 [![github_stats](https://github-readme-stats.vercel.app/api?username=nahy-512&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahy-512&layout=compact)](https://github.com/nahy-512)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nahy-512)](https://velog.io/@nahy-512)
 
 <br>
 
