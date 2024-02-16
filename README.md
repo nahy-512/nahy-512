@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nahyun%20Kim&fontSize=90)
 
 ### 🌈 Introduction
-<a href="https://chill-waste-c34.notion.site/Android-Developer-f1b425fac02c4b6f901dbfa637033a04?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://kimcoa.notion.site/d4095816cd26489f841d5c3a322a0d8b?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 
 ### 🏫 Education
