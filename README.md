@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nahyun%20Kim&fontSize=90)
 
 ### 🌈 Introduction
-<a href="https://kimcoa.notion.site/d4095816cd26489f841d5c3a322a0d8b?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://cocoa-log.notion.site/Android-Developer-f1b425fac02c4b6f901dbfa637033a04?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 
 ### 🏫 Education
@@ -10,14 +10,14 @@
 
 ### 🚀 Activity
 - [Universial Makeus Challenge](https://www.makeus.in/umc) GCU
-  - 📱  2nd Android 파트 <sub>2022.03 - 2022.08</sub>
-  - 🍎  3rd iOS 파트 <sub>2022.09 - 2023.02</sub>
-  - 🎉 4th 기획팀장 & Design 파트 <sub>2023.03 - 2023.08</sub>
-  - 🧑🏻‍🏫 5th Android 파트장 & Spring Boot 파트 <sub>2023.09 ~ </sub>
+  - 📱  2nd Android 수료 <sub>2022.03 - 2022.08</sub>
+  - 🍎  3rd iOS 수료 <sub>2022.09 - 2023.02</sub>
+  - 🎉 4th 기획팀장 & Design 수료 <sub>2023.03 - 2023.08</sub>
+  - 🧑🏻‍🏫 5th Android 파트장 & Spring Boot 수료 <sub>2023.09 ~ 2024.02</sub>
 
 
 ### 📊 Stats
-[![github_stats](https://github-readme-stats.vercel.app/api?username=nahy-512&show_icons=true&hide_border=true)](https://github.com/EunsuSeo01)
+[![github_stats](https://github-readme-stats.vercel.app/api?username=nahy-512&show_icons=true&hide_border=true)](https://github.com/nahy-512)
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahy-512&layout=compact)](https://github.com/nahy-512)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nahy-512)](https://velog.io/@nahy-512)
 
