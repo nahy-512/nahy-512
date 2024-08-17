@@ -35,10 +35,10 @@
  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
  ![Html](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=Html&logoColor=white)
  #### Tools 
- ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
  ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white)
  ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
  ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
+ ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
  ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
@@ -49,5 +49,5 @@
 
 
 ### 👀 Hits
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahy-512%2Fhit-counter&count_bg=%239200FF&title_bg=%2300E7FF&icon=&icon_color=%23F30000&title=Hits&edge_flat=false)](https://github.com/nahy-512/Kim-Na-Hyun/blob/main/README.md)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahy-512%2Fhit-counter&count_bg=%23CDE6B5&title_bg=%230E9187&title=Total+Hits+++&edge_flat=false)](https://github.com/nahy-512/Kim-Na-Hyun/blob/main/README.md)
 <img src="https://img.shields.io/github/followers/nahy-512?style=social">
