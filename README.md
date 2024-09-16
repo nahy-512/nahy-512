@@ -6,7 +6,7 @@
 
 
 ### 🏫 Education
-- 📖 [Gachon Univ. School of Computing](https://sw.gachon.ac.kr/cms/) 2학년 <sub>2022.03 ~ </sub>
+- 📖 [Gachon Univ. School of Computing](https://sw.gachon.ac.kr/cms/) 3학년 <sub>2022.03 ~ </sub>
 
 ### 🚀 Activity
 - [Universial Makeus Challenge](https://www.makeus.in/umc) GCU
