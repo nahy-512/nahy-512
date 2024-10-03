@@ -31,7 +31,10 @@
     <td align="center"><a href="https://litt.ly/namong">나모</a></td>
     <td align="left">22.07.01 ~ 현재</td>
     <td align="left">PM, Android Developer</td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.mongmong.namo&pcampaignid=web_share">Google Store</a></td>
+    <td align="left">
+      - <a href="https://play.google.com/store/apps/details?id=com.mongmong.namo&pcampaignid=web_share">Google Store</a></br>
+      - <a href="https://apps.apple.com/kr/app/%EB%82%98%EB%AA%A8-%EB%82%98%EC%9D%98-%EB%AA%A8%EC%9E%84-%EA%B8%B0%EB%A1%9D/id6477534399">App Store</a>
+    </td>
     <td align="left">23.12.31</td>
   </tr>
 
@@ -40,7 +43,10 @@
     <td align="center">가람개비</td>
     <td align="left">23.01.05 ~ 23.04.05</td>
     <td align="left">iOS Developer</td>
-    <td align="center"><a href="https://apps.apple.com/kr/app/%EA%B0%80%EB%9E%8C%EA%B0%9C%EB%B9%84/id6446202566">App Store</a></td>
+    <td align="left">
+      - <a href="https://play.google.com/store/apps/details?id=com.garamgaebi.garamgaebi">Google Store</a></br>
+      - <a href="https://apps.apple.com/kr/app/%EA%B0%80%EB%9E%8C%EA%B0%9C%EB%B9%84/id6446202566">App Store</a> (현재 내려간 상태)
+    </td>
     <td align="left">23.03.20</td>
   </tr>
 
@@ -49,7 +55,10 @@
     <td align="center"><a href="https://litt.ly/jpower">J력</a></td>
     <td align="left">22.12.27 ~ 현재</td>
     <td align="left">Android, Flutter Developer</td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.quintable.jpower">Google Store</a></td>
+    <td align="left">
+      - <a href="https://play.google.com/store/apps/details?id=com.quintable.jpower">Google Store</a></br>
+      - <a href="https://apps.apple.com/us/app/j%EB%A0%A5/id1614992134">App Store</a>
+    </td>
     <td align="left">23.05.23</td>
   </tr>
 
@@ -58,7 +67,10 @@
     <td align="center">Route Box</td>
     <td align="left">24.05.22 ~ 현재</td>
     <td align="left">Android Developer</td>
-    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.daval.routebox">Google Store</a></td>
+    <td align="left">
+      - <a href="https://play.google.com/store/apps/details?id=com.daval.routebox">Google Store</a><br>
+      - <a href="https://apps.apple.com/kr/app/routebox/id6667119500">App Store</a>
+    </td>
     <td align="left">24.09.29</td>
   </tr>
 </table>
