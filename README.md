@@ -39,18 +39,6 @@
   </tr>
 
   <tr>
-    <td align="center"><image width="50" alt="가람개비" src="https://github.com/user-attachments/assets/65c5cb11-e6d4-4e59-a1c7-4a2be6bb64d1"></td>
-    <td align="center">가람개비</td>
-    <td align="left">23.01.05 ~ 23.04.05</td>
-    <td align="left">iOS Developer</td>
-    <td align="left">
-      - <a href="https://play.google.com/store/apps/details?id=com.garamgaebi.garamgaebi">Google Store</a></br>
-      - <a href="https://apps.apple.com/kr/app/%EA%B0%80%EB%9E%8C%EA%B0%9C%EB%B9%84/id6446202566">App Store</a> (현재 내려간 상태)
-    </td>
-    <td align="left">23.03.20</td>
-  </tr>
-
-  <tr>
     <td align="center"><image width="50" alt="J력" src="https://github.com/user-attachments/assets/91d41f16-1d80-4ee1-bffd-b7561360c2d4"></td>
     <td align="center"><a href="https://litt.ly/jpower">J력</a></td>
     <td align="left">22.12.27 ~ 현재</td>
@@ -60,6 +48,18 @@
       - <a href="https://apps.apple.com/us/app/j%EB%A0%A5/id1614992134">App Store</a>
     </td>
     <td align="left">23.05.23</td>
+  </tr>
+
+  <tr>
+    <td align="center"><image width="50" alt="가람개비" src="https://github.com/user-attachments/assets/65c5cb11-e6d4-4e59-a1c7-4a2be6bb64d1"></td>
+    <td align="center">가람개비</td>
+    <td align="left">23.01.05 ~ 23.04.05</td>
+    <td align="left">iOS Developer</td>
+    <td align="left">
+      - <a href="https://play.google.com/store/apps/details?id=com.garamgaebi.garamgaebi">Google Store</a> (현재 내려간 상태)</br>
+      - <a href="https://apps.apple.com/kr/app/%EA%B0%80%EB%9E%8C%EA%B0%9C%EB%B9%84/id6446202566">App Store</a>
+    </td>
+    <td align="left">23.03.20</td>
   </tr>
 
   <tr>
