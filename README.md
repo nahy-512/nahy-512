@@ -17,6 +17,7 @@
 
 
 ### 📱 Projects
+> 출시한 프로젝트 
 <table>
   <tr>
     <td align="center"><b> </b></td>
@@ -50,6 +51,18 @@
     <td align="left">23.05.23</td>
   </tr>
 
+   <tr>
+    <td align="center"><image width="50" alt="Route Box" src="https://github.com/user-attachments/assets/bb2fb761-a56c-43fe-8e60-56b5e9dba7a4"></td>
+    <td align="center">Route Box</td>
+    <td align="left">24.05.22 ~ 현재</td>
+    <td align="left">Android Developer</td>
+    <td align="left">
+      - <a href="https://play.google.com/store/apps/details?id=com.daval.routebox">Google Store</a><br>
+      - <a href="https://apps.apple.com/kr/app/routebox/id6667119500">App Store</a>
+    </td>
+    <td align="left">24.09.29</td>
+  </tr>
+
   <tr>
     <td align="center"><image width="50" alt="가람개비" src="https://github.com/user-attachments/assets/65c5cb11-e6d4-4e59-a1c7-4a2be6bb64d1"></td>
     <td align="center">가람개비</td>
@@ -61,18 +74,7 @@
     </td>
     <td align="left">23.03.20</td>
   </tr>
-
-  <tr>
-    <td align="center"><image width="50" alt="Route Box" src="https://github.com/user-attachments/assets/bb2fb761-a56c-43fe-8e60-56b5e9dba7a4"></td>
-    <td align="center">Route Box</td>
-    <td align="left">24.05.22 ~ 현재</td>
-    <td align="left">Android Developer</td>
-    <td align="left">
-      - <a href="https://play.google.com/store/apps/details?id=com.daval.routebox">Google Store</a><br>
-      - <a href="https://apps.apple.com/kr/app/routebox/id6667119500">App Store</a>
-    </td>
-    <td align="left">24.09.29</td>
-  </tr>
+      
 </table>
 <br>
 
