@@ -9,7 +9,7 @@
 - 📖 [Gachon Univ. School of Computing](https://sw.gachon.ac.kr/cms/) 3학년 <sub>2022.03 ~ </sub>
 
 ### 🚀 Activity
-- [Universial Makeus Challenge](https://www.makeus.in/umc) GCU
+- [Universial Makeus Challenge](https://umc.makeus.in/) GCU
   - 📱  2nd Android 수료 <sub>2022.03 - 2022.08</sub>
   - 🍎  3rd iOS 수료 <sub>2022.09 - 2023.02</sub>
   - 🎉 4th 기획팀장 & Design 수료 <sub>2023.03 - 2023.08</sub>
