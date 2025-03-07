@@ -30,7 +30,7 @@
  <tr>
     <td align="center"><image width="50" alt="나모" src="https://github.com/user-attachments/assets/57d7a092-caaa-4895-92ec-675ee1130bb4"></td>
     <td align="center"><a href="https://litt.ly/namong">나모</a></td>
-    <td align="left">22.07.01 ~ 현재</td>
+    <td align="left">22.07.01 ~ 25.03</td>
     <td align="left">PM, Android Developer</td>
     <td align="left">
       - <a href="https://play.google.com/store/apps/details?id=com.mongmong.namo&pcampaignid=web_share">Google Store</a></br>
