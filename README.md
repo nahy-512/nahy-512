@@ -27,22 +27,11 @@
     <td align="center"><b>스토어 링크</b></td>
     <td align="center"><b>출시일</b></td>
   </tr>
- <tr>
-    <td align="center"><image width="50" alt="나모" src="https://github.com/user-attachments/assets/57d7a092-caaa-4895-92ec-675ee1130bb4"></td>
-    <td align="center"><a href="https://litt.ly/namong">나모</a></td>
-    <td align="left">22.07.01 ~ 25.03</td>
-    <td align="left">PM, Android Developer</td>
-    <td align="left">
-      - <a href="https://play.google.com/store/apps/details?id=com.mongmong.namo&pcampaignid=web_share">Google Store</a></br>
-      - <a href="https://apps.apple.com/kr/app/%EB%82%98%EB%AA%A8-%EB%82%98%EC%9D%98-%EB%AA%A8%EC%9E%84-%EA%B8%B0%EB%A1%9D/id6477534399">App Store</a>
-    </td>
-    <td align="left">23.12.31</td>
-  </tr>
 
   <tr>
     <td align="center"><image width="50" alt="J력" src="https://github.com/user-attachments/assets/91d41f16-1d80-4ee1-bffd-b7561360c2d4"></td>
     <td align="center"><a href="https://litt.ly/jpower">J력</a></td>
-    <td align="left">22.12.27 ~ 현재</td>
+    <td align="left">22.12 ~ 현재</td>
     <td align="left">Android, Flutter Developer</td>
     <td align="left">
       - <a href="https://play.google.com/store/apps/details?id=com.quintable.jpower">Google Store</a></br>
@@ -54,7 +43,7 @@
    <tr>
     <td align="center"><image width="50" alt="Route Box" src="https://github.com/user-attachments/assets/bb2fb761-a56c-43fe-8e60-56b5e9dba7a4"></td>
     <td align="center">Route Box</td>
-    <td align="left">24.05.22 ~ 현재</td>
+    <td align="left">24.05 ~ 현재</td>
     <td align="left">Android Developer</td>
     <td align="left">
       - <a href="https://play.google.com/store/apps/details?id=com.daval.routebox">Google Store</a><br>
@@ -64,9 +53,21 @@
   </tr>
 
   <tr>
+    <td align="center"><image width="50" alt="나모" src="https://github.com/user-attachments/assets/57d7a092-caaa-4895-92ec-675ee1130bb4"></td>
+    <td align="center"><a href="https://litt.ly/namong">나모</a></td>
+    <td align="left">22.07 ~ 25.03</td>
+    <td align="left">PM, Android Developer</td>
+    <td align="left">
+      - <a href="https://play.google.com/store/apps/details?id=com.mongmong.namo&pcampaignid=web_share">Google Store</a></br>
+      - <a href="https://apps.apple.com/kr/app/%EB%82%98%EB%AA%A8-%EB%82%98%EC%9D%98-%EB%AA%A8%EC%9E%84-%EA%B8%B0%EB%A1%9D/id6477534399">App Store</a>
+    </td>
+    <td align="left">23.12.31</td>
+  </tr>
+
+  <tr>
     <td align="center"><image width="50" alt="가람개비" src="https://github.com/user-attachments/assets/65c5cb11-e6d4-4e59-a1c7-4a2be6bb64d1"></td>
     <td align="center">가람개비</td>
-    <td align="left">23.01.05 ~ 23.04.05</td>
+    <td align="left">23.01 ~ 23.04</td>
     <td align="left">iOS Developer</td>
     <td align="left">
       - <a href="https://play.google.com/store/apps/details?id=com.garamgaebi.garamgaebi">Google Store</a> (현재 내려간 상태)</br>
