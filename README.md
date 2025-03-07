@@ -70,7 +70,8 @@
     <td align="left">23.01 ~ 23.04</td>
     <td align="left">iOS Developer</td>
     <td align="left">
-      - <a href="https://play.google.com/store/apps/details?id=com.garamgaebi.garamgaebi">Google Store</a> (현재 내려간 상태)</br>
+      (현재 내려간 상태) </br>
+      - <a href="https://play.google.com/store/apps/details?id=com.garamgaebi.garamgaebi">Google Store</a></br>
       - <a href="https://apps.apple.com/kr/app/%EA%B0%80%EB%9E%8C%EA%B0%9C%EB%B9%84/id6446202566">App Store</a>
     </td>
     <td align="left">23.03.20</td>
