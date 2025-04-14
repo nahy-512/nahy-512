@@ -17,8 +17,9 @@
 
 
 ### 📱 Projects
-> 출시한 프로젝트 
-<table>
+<details>
+  <summary>출시한 프로젝트</summary>
+  <table>
   <tr>
     <td align="center"><b> </b></td>
     <td align="center"><b>프로젝트명</b></td>
@@ -78,7 +79,7 @@
   </tr>
       
 </table>
-<br>
+</details>
 
 ### 📊 Stats
 [![github_stats](https://github-readme-stats.vercel.app/api?username=nahy-512&show_icons=true&hide_border=true)](https://github.com/nahy-512)
