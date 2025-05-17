@@ -85,31 +85,6 @@
 [![github_stats](https://github-readme-stats.vercel.app/api?username=nahy-512&show_icons=true&hide_border=true)](https://github.com/nahy-512)
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahy-512&layout=compact)](https://github.com/nahy-512)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nahy-512)](https://velog.io/@nahy-512)
-
-### 🛠 Tech Stacks
-#### Platforms & Languages
- ![Android](https://img.shields.io/badge/android-34A853?style=flat-square&logo=Android&logoColor=white)
- ![iOS](https://img.shields.io/badge/ios-000000?style=flat-square&logo=iOS&logoColor=white)
- ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=Kotlin&logoColor=white)
- ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=Dart&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54)
- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
- ![Html](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=Html&logoColor=white)
- #### Tools 
- ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white)
- ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
- ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
- ![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
- ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
- ![Slack](https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white)
  
 
 
