@@ -86,7 +86,7 @@
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahy-512&layout=compact)](https://github.com/nahy-512)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nahy-512)](https://velog.io/@nahy-512)
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/nahy-512?pet-id=1" width="300" height="120"/>
+  <img src="https://render.gitanimals.org/farms/nahy-512" width="300" height="120"/>
 </a>
 
 <!--### 👀 Hits
