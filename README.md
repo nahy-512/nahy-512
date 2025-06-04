@@ -90,7 +90,7 @@
 </a>
 
 ### 👀 Hits
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fnahy-512?color=purple&label=hits&size=small)](https://myhits.vercel.app)
+[![Hits](https://hits.sh/github.com/nahy-512.svg?view=today-total&color=67ca43)](https://hits.sh/github.com/nahy-512/)
 <img src="https://img.shields.io/github/followers/nahy-512?style=social">
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahy-512%2Fhit-counter&count_bg=%23CDE6B5&title_bg=%230E9187&title=Total+Hits+++&edge_flat=false)](https://github.com/nahy-512/Kim-Na-Hyun/blob/main/README.md)-->
