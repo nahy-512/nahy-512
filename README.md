@@ -3,23 +3,48 @@
 
 
 ### 🏫 Education
-- [Gachon Univ. School of Computing](https://sw.gachon.ac.kr/cms/) 3학년 <sub>2022.03 ~ </sub>
+> [Gachon Univ. School of Computing](https://sw.gachon.ac.kr/cms/) 4학년 <sub>2022.03 ~ </sub>
+</br>
 
 ### 🚀 Activity
-- [Universial Makeus Challenge](https://umc.makeus.in/) GCU
-  - 2nd Android 수료 <sub>2022.03 - 2022.08</sub>
-  - 3rd iOS 수료 <sub>2022.09 - 2023.02</sub>
-  - 4th 기획팀장 & Design 수료 <sub>2023.03 - 2023.08</sub>
-  - 5th Android 파트장 & Spring Boot 수료 <sub>2023.09 ~ 2024.02</sub>
-- [SOPT](https://www.sopt.org/)
-  - 36th AT SOPT Android YB <sub>2025.03 - 진행중</sub>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center;">Name</th>
+      <th style="text-align: center;">Period</th>
+      <th style="text-align: center;">Detail</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;"><strong><a href="https://umc.makeus.in/">UMC</a></strong></td>
+      <td style="text-align: center;">2022.03 ~ 2024.02</td>
+      <td style="text-align: left;">
+        <p>
+          - 2nd Android 수료<br/>
+          - 3rd iOS 수료<br/>
+          - 4th 기획팀장 & Design 수료<br/>
+          - 5th Android 파트장 & Spring Boot 수료
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><strong><a href="https://www.sopt.org/">SOPT</a></strong></td>
+      <td style="text-align: center;">2025.03 ~ 2025.07</td>
+      <td style="text-align: left;">- 36th AT SOPT Android YB</td>
+    </tr>
+  </tbody>
+</table>
+
+
+</br>
 
 ### 📊 Stats
 [![github_stats](https://github-readme-stats.vercel.app/api?username=nahy-512&show_icons=true&hide_border=true)](https://github.com/nahy-512)
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahy-512&layout=compact)](https://github.com/nahy-512)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nahy-512)](https://velog.io/@nahy-512)
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/nahy-512" width="300" height="120"/>
+  <img src="https://render.gitanimals.org/farms/nahy-512" height="130"/>
 </a>
 
 ### 👀 Hits
