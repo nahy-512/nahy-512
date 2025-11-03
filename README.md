@@ -17,6 +17,16 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: center;"><strong><a href="https://www.sopt.org/">SOPT</a></strong></td>
+      <td style="text-align: center;">2025.03 ~ 진행중</td>
+      <td style="text-align: left;">
+        <p>
+          - 36th AT SOPT Android YB<br/>
+          - 37th DIVE SOPT Androit OB
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align: center;"><strong><a href="https://umc.makeus.in/">UMC</a></strong></td>
       <td style="text-align: center;">2022.03 ~ 2024.02</td>
       <td style="text-align: left;">
@@ -27,11 +37,6 @@
           - 5th Android 파트장 & Spring Boot 수료
         </p>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align: center;"><strong><a href="https://www.sopt.org/">SOPT</a></strong></td>
-      <td style="text-align: center;">2025.03 ~ 2025.07</td>
-      <td style="text-align: left;">- 36th AT SOPT Android YB</td>
     </tr>
   </tbody>
 </table>
