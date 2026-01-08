@@ -22,7 +22,7 @@
       <td style="text-align: left;">
         <p>
           - 36th AT SOPT Android YB<br/>
-          - 37th DIVE SOPT Androit OB
+          - 37th DIVE SOPT Android OB
         </p>
       </td>
     </tr>
