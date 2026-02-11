@@ -18,7 +18,7 @@
   <tbody>
     <tr>
       <td style="text-align: center;"><strong><a href="https://www.sopt.org/">SOPT</a></strong></td>
-      <td style="text-align: center;">2025.03 ~ 진행중</td>
+      <td style="text-align: center;">2025.03 ~ 2026.01</td>
       <td style="text-align: left;">
         <p>
           - 36th AT SOPT Android YB<br/>
